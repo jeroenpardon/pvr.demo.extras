@@ -11,7 +11,3 @@ This package was originally put together by Jezz_X. I just updated paths to keep
 
 ### Usage
 You need to already have the demo addon installed for your OS and then extract this file and copy it over into the pvr demo addons install dir 1 file will need to be over-ridden namely PVRDemoAddonSettings.xml which holds all the information it needs. then go into settings\livetv\general and select "Reset the PVR database" to get the new info
-
-The top channel is actually linked to a live stream of http://twit.tv/ from the internet and every other channel plays a local copy of a College humor pacman video you can of course change this however you want by editing PVRDemoAddonSettings.xml yourself.
-
-The radio channels don't play anything
