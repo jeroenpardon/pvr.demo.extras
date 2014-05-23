@@ -10,4 +10,4 @@ This package was originally put together by Jezz_X. I just updated paths to keep
 - added genre colors doc file
 
 ### Usage
-You need to already have the demo addon installed for your OS and then extract this file and copy it over into the pvr demo addons install dir 1 file will need to be over-ridden namely PVRDemoAddonSettings.xml which holds all the information it needs. then go into settings\livetv\general and select "Reset the PVR database" to get the new info
+Extract the contents of this file and copy it over into the pvr demo addons install directory (PVRDemoAddonSettings.xml needs to be overwritten). After that go into settings/livetv/general and select "Reset the PVR database" to get the new info.
