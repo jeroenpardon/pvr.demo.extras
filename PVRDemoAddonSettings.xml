@@ -1,175 +1,175 @@
 <demo>
   <channels>
     <channel>
-      <name>TWIT</name>
+      <name>Demo TV Channel 1</name>
       <radio>0</radio>
       <number>1</number>
       <encryption>0</encryption>
-      <icon>special://xbmc/addons/pvr.demo/data/twit.png</icon>
-      <stream>special://xbmc/addons/pvr.demo/data/demostream.mp4</stream>
+      <icon>special://xbmc/addons/pvr.demo/data/01.png</icon>
+      <stream>http://distribution.bbb3d.renderfarming.net/video/mp4/bbb_sunflower_1080p_30fps_normal.mp4</stream>
     </channel>
     <channel>
-      <name>4 ME</name>
+      <name>Demo TV Channel 2</name>
       <radio>0</radio>
       <number>2</number>
       <encryption>0</encryption>
-      <icon>special://xbmc/addons/pvr.demo/data/4me.png</icon>
-      <stream>special://xbmc/addons/pvr.demo/data/demostream.mp4</stream>
+      <icon>special://xbmc/addons/pvr.demo/data/02.png</icon>
+      <stream>http://distribution.bbb3d.renderfarming.net/video/mp4/bbb_sunflower_1080p_30fps_normal.mp4</stream>
     </channel>
     <channel>
-      <name>7 HD</name>
+      <name>Demo TV Channel 3</name>
       <radio>0</radio>
       <number>3</number>
       <encryption>0</encryption>
-      <icon>special://xbmc/addons/pvr.demo/data/7_hd.png</icon>
-      <stream>special://xbmc/addons/pvr.demo/data/demostream.mp4</stream>
+      <icon>special://xbmc/addons/pvr.demo/data/03.png</icon>
+      <stream>http://distribution.bbb3d.renderfarming.net/video/mp4/bbb_sunflower_1080p_30fps_normal.mp4</stream>
     </channel>
     <channel>
-      <name>7 Mate</name>
+      <name>Demo TV Channel 4</name>
       <radio>0</radio>
       <number>4</number>
       <encryption>0</encryption>
-      <icon>special://xbmc/addons/pvr.demo/data/7mate.png</icon>
-      <stream>special://xbmc/addons/pvr.demo/data/demostream.mp4</stream>
+      <icon>special://xbmc/addons/pvr.demo/data/04.png</icon>
+      <stream>http://distribution.bbb3d.renderfarming.net/video/mp4/bbb_sunflower_1080p_30fps_normal.mp4</stream>
     </channel>
     <channel>
-      <name>9 HD</name>
+      <name>Demo TV Channel 5</name>
       <radio>0</radio>
       <number>5</number>
       <encryption>0</encryption>
-      <icon>special://xbmc/addons/pvr.demo/data/9_hd.png</icon>
-      <stream>special://xbmc/addons/pvr.demo/data/demostream.mp4</stream>
+      <icon>special://xbmc/addons/pvr.demo/data/05.png</icon>
+      <stream>http://distribution.bbb3d.renderfarming.net/video/mp4/bbb_sunflower_1080p_30fps_normal.mp4</stream>
     </channel>
     <channel>
-      <name>ABC 1</name>
+      <name>Demo TV Channel 6</name>
+      <radio>0</radio>
+      <number>6</number>
+      <encryption>0</encryption>
+      <icon>special://xbmc/addons/pvr.demo/data/06.png</icon>
+      <stream>http://distribution.bbb3d.renderfarming.net/video/mp4/bbb_sunflower_1080p_30fps_normal.mp4</stream>
+    </channel>
+    <channel>
+      <name>Demo TV Channel 7</name>
+      <radio>0</radio>
+      <number>7</number>
+      <encryption>0</encryption>
+      <icon>special://xbmc/addons/pvr.demo/data/07.png</icon>
+      <stream>http://distribution.bbb3d.renderfarming.net/video/mp4/bbb_sunflower_1080p_30fps_normal.mp4</stream>
+    </channel>
+    <channel>
+      <name>Demo TV Channel 8</name>
+      <radio>0</radio>
+      <number>8</number>
+      <encryption>0</encryption>
+      <icon>special://xbmc/addons/pvr.demo/data/08.png</icon>
+      <stream>http://distribution.bbb3d.renderfarming.net/video/mp4/bbb_sunflower_1080p_30fps_normal.mp4</stream>
+    </channel>
+    <channel>
+      <name>Demo TV Channel 9</name>
+      <radio>0</radio>
+      <number>9</number>
+      <encryption>0</encryption>
+      <icon>special://xbmc/addons/pvr.demo/data/09.png</icon>
+      <stream>http://distribution.bbb3d.renderfarming.net/video/mp4/bbb_sunflower_1080p_30fps_normal.mp4</stream>
+    </channel>
+    <channel>
+      <name>Demo TV Channel 10</name>
       <radio>0</radio>
       <number>10</number>
       <encryption>0</encryption>
-      <icon>special://xbmc/addons/pvr.demo/data/abc1.png</icon>
-      <stream>special://xbmc/addons/pvr.demo/data/demostream.mp4</stream>
+      <icon>special://xbmc/addons/pvr.demo/data/10.png</icon>
+      <stream>http://distribution.bbb3d.renderfarming.net/video/mp4/bbb_sunflower_1080p_30fps_normal.mp4</stream>
     </channel>
     <channel>
-      <name>One HD</name>
+      <name>Demo TV Channel 11</name>
       <radio>0</radio>
       <number>11</number>
       <encryption>0</encryption>
-      <icon>special://xbmc/addons/pvr.demo/data/one_hd.png</icon>
-      <stream>special://xbmc/addons/pvr.demo/data/demostream.mp4</stream>
+      <icon>special://xbmc/addons/pvr.demo/data/11.png</icon>
+      <stream>http://distribution.bbb3d.renderfarming.net/video/mp4/bbb_sunflower_1080p_30fps_normal.mp4</stream>
     </channel>
+
     <channel>
-      <name>ABC 3</name>
-      <radio>0</radio>
-      <number>12</number>
-      <encryption>0</encryption>
-      <icon>special://xbmc/addons/pvr.demo/data/abc3.png</icon>
-      <stream>special://xbmc/addons/pvr.demo/data/demostream.mp4</stream>
-    </channel>
-    <channel>
-      <name>ABC News 24</name>
-      <radio>0</radio>
-      <number>13</number>
-      <encryption>0</encryption>
-      <icon>special://xbmc/addons/pvr.demo/data/abcnews.jpg</icon>
-      <stream>special://xbmc/addons/pvr.demo/data/demostream.mp4</stream>
-    </channel>
-    <channel>
-      <name>Eleven</name>
-      <radio>0</radio>
-      <number>14</number>
-      <encryption>0</encryption>
-      <icon>special://xbmc/addons/pvr.demo/data/eleven.png</icon>
-      <stream>special://xbmc/addons/pvr.demo/data/demostream.mp4</stream>
-    </channel>
-    <channel>
-      <name>GO!</name>
-      <radio>0</radio>
-      <number>15</number>
-      <encryption>0</encryption>
-      <icon>special://xbmc/addons/pvr.demo/data/go.png</icon>
-      <stream>special://xbmc/addons/pvr.demo/data/demostream.mp4</stream>
-    </channel>
- 
-    <channel>
-      <name>WAAF Boston Rock radio</name>
+      <name>Demo Radio Channel 1</name>
       <radio>1</radio>
       <number>1</number>
       <encryption>0</encryption>
-      <icon>special://xbmc/addons/pvr.demo/data/WAAF.gif</icon>
-      <stream>http://provisioning.streamtheworld.com/pls/WAAFFMAAC.pls</stream>
+      <icon>special://xbmc/addons/pvr.demo/data/01.png</icon>
+      <stream></stream>
     </channel>
     <channel>
-      <name>Triple J</name>
+      <name>Demo Radio Channel 2</name>
       <radio>1</radio>
       <number>2</number>
       <encryption>0</encryption>
-      <icon>special://xbmc/addons/pvr.demo/data/jjj.png</icon>
+      <icon>special://xbmc/addons/pvr.demo/data/02.png</icon>
       <stream></stream>
     </channel>
-     <channel>
-      <name>Demo Radio Channel #3</name>
+    <channel>
+      <name>Demo Radio Channel 3</name>
       <radio>1</radio>
       <number>3</number>
       <encryption>0</encryption>
-      <icon></icon>
+      <icon>special://xbmc/addons/pvr.demo/data/03.png</icon>
       <stream></stream>
     </channel>
     <channel>
-      <name>Demo Radio Channel #4</name>
+      <name>Demo Radio Channel 4</name>
       <radio>1</radio>
       <number>4</number>
       <encryption>0</encryption>
-      <icon></icon>
+      <icon>special://xbmc/addons/pvr.demo/data/04.png</icon>
       <stream></stream>
     </channel>
     <channel>
-      <name>Demo Radio Channel #5</name>
+      <name>Demo Radio Channel 5</name>
       <radio>1</radio>
       <number>5</number>
       <encryption>0</encryption>
-      <icon></icon>
+      <icon>special://xbmc/addons/pvr.demo/data/05.png</icon>
       <stream></stream>
     </channel>
     <channel>
-      <name>Demo Radio Channel #6</name>
+      <name>Demo Radio Channel 6</name>
       <radio>1</radio>
       <number>6</number>
       <encryption>0</encryption>
-      <icon></icon>
+      <icon>special://xbmc/addons/pvr.demo/data/06.png</icon>
       <stream></stream>
     </channel>
     <channel>
-      <name>Demo Radio Channel #7</name>
+      <name>Demo Radio Channel 7</name>
       <radio>1</radio>
       <number>7</number>
       <encryption>0</encryption>
-      <icon></icon>
+      <icon>special://xbmc/addons/pvr.demo/data/07.png</icon>
       <stream></stream>
     </channel>
     <channel>
-      <name>Demo Radio Channel #8</name>
+      <name>Demo Radio Channel 8</name>
       <radio>1</radio>
       <number>8</number>
       <encryption>0</encryption>
-      <icon></icon>
+      <icon>special://xbmc/addons/pvr.demo/data/08.png</icon>
       <stream></stream>
     </channel>
     <channel>
-      <name>Demo Radio Channel #9</name>
+      <name>Demo Radio Channel 9</name>
       <radio>1</radio>
       <number>9</number>
       <encryption>0</encryption>
-      <icon></icon>
+      <icon>special://xbmc/addons/pvr.demo/data/09.png</icon>
       <stream></stream>
     </channel>
     <channel>
-      <name>Demo Radio Channel #10</name>
+      <name>Demo Radio Channel 10</name>
       <radio>1</radio>
       <number>10</number>
       <encryption>0</encryption>
-      <icon></icon>
+      <icon>special://xbmc/addons/pvr.demo/data/10.png</icon>
       <stream></stream>
     </channel>
- </channels>
+  </channels>
   <channelgroups>
     <group>
       <name>Demo Group #1</name>
@@ -204,264 +204,263 @@
   <epg>
     <entry>
       <broadcastid>100</broadcastid>
-      <title>Twit.tv live stream</title>
+      <title>Demo EPG entry 1</title>
       <channelid>1</channelid>
       <start>0</start>
       <end>7200</end>
-      <plotoutline>Netcasts you love from people you trust this is Twit</plotoutline>
-      <plot>Live Web Stream streaming all of the twit.tv shows and their live events going 24 hours a day seven days a week</plot>
-      <icon></icon>
-      <genretype>176</genretype>
-      <genresubtype>0</genresubtype>
-    </entry>
-    <entry>
-      <broadcastid>200</broadcastid>
-      <title>Pacman TV</title>
-      <channelid>2</channelid>
-      <start>0</start>
-      <end>7200</end>
-      <plotoutline>College Humour video</plotoutline>
-      <plot>Funny video with the pacman game characters discussing the merrits of various TV shows playing today in America</plot>
+      <plotoutline>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</plotoutline>
+      <plot>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam cursus consectetur ipsum, eu tincidunt dui aliquam ac. Sed scelerisque, augue eu lacinia ultrices, libero ante ullamcorper augue, vel malesuada justo risus ac nulla. Quisque ac libero libero. Sed tincidunt, orci eu condimentum laoreet, felis odio mattis est, et lacinia metus enim in leo. Fusce faucibus tristique risus in varius. Etiam sagittis venenatis ligula nec rutrum. Etiam gravida dictum hendrerit. Sed sodales felis in sapien rutrum non malesuada nisi lobortis. Mauris iaculis ante odio. Nunc gravida erat convallis purus dignissim et ultricies orci dapibus. Aliquam erat volutpat. Vestibulum mi felis, malesuada ac tincidunt sit amet, pulvinar nec dolor. Pellentesque vehicula est vulputate mi adipiscing euismod. Donec ac mauris nulla. Nullam suscipit felis eu quam sodales ac bibendum nisi interdum. Curabitur non lectus a ante venenatis semper eget id justo. Ut facilisis, ligula pretium dictum congue, lacus dolor commodo nibh, sit amet sodales sed. </plot>
       <icon></icon>
       <genretype>16</genretype>
       <genresubtype>0</genresubtype>
     </entry>
     <entry>
-      <broadcastid>300</broadcastid>
-      <title>Game of Thrones</title>
-      <channelid>3</channelid>
+      <broadcastid>200</broadcastid>
+      <title>Demo EPG entry 2</title>
+      <channelid>2</channelid>
       <start>0</start>
       <end>7200</end>
-      <plotoutline>Seven noble families fight for control of the mythical land of Westeros</plotoutline>
-      <plot>Political and sexual intrigue is pervasive. Robert Baratheon, King of Westeros, asks his old friend Eddard, Lord Stark, to serve as Hand of the King, or highest official. Secretly warned that the previous Hand was assassinated, Eddard accepts in order to investigate further. Meanwhile the Queen's family, the Lannisters, may be hatching a plot to take power. Across the sea, the last members of the previous and deposed ruling family, the Targaryens, are also scheming to regain the throne. The friction between the houses Stark, Lannister and Baratheon, and with the remaining great houses Greyjoy, Tully, Arryn, and Tyrell, leads to full-scale war. All while a very ancient evil awakens in the farthest north. Amidst the war and political confusion, a neglected military order of misfits, the Night's Watch, is all that stands between the realms of men and icy horrors beyond</plot>
+      <plotoutline>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</plotoutline>
+      <plot>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam cursus consectetur ipsum, eu tincidunt dui aliquam ac. Sed scelerisque, augue eu lacinia ultrices, libero ante ullamcorper augue, vel malesuada justo risus ac nulla. Quisque ac libero libero. Sed tincidunt, orci eu condimentum laoreet, felis odio mattis est, et lacinia metus enim in leo. Fusce faucibus tristique risus in varius. Etiam sagittis venenatis ligula nec rutrum. Etiam gravida dictum hendrerit. Sed sodales felis in sapien rutrum non malesuada nisi lobortis. Mauris iaculis ante odio. Nunc gravida erat convallis purus dignissim et ultricies orci dapibus. Aliquam erat volutpat. Vestibulum mi felis, malesuada ac tincidunt sit amet, pulvinar nec dolor. Pellentesque vehicula est vulputate mi adipiscing euismod. Donec ac mauris nulla. Nullam suscipit felis eu quam sodales ac bibendum nisi interdum. Curabitur non lectus a ante venenatis semper eget id justo. Ut facilisis, ligula pretium dictum congue, lacus dolor commodo nibh, sit amet sodales sed. </plot>
       <icon></icon>
       <genretype>32</genretype>
       <genresubtype>0</genresubtype>
     </entry>
     <entry>
-      <broadcastid>400</broadcastid>
-      <title>The Big Bang Theory</title>
-      <channelid>4</channelid>
+      <broadcastid>300</broadcastid>
+      <title>Demo EPG entry 3</title>
+      <channelid>3</channelid>
       <start>0</start>
       <end>7200</end>
-      <plotoutline>A woman who moves into an apartment next door to two brilliant but socially awkward physicists shows them how little they know about life outside of the laboratory</plotoutline>
-      <plot>Leonard Hofstadter and Sheldon Cooper are both brilliant physicists working at Cal Tech in Pasadena, California. They are colleagues, best friends, and roommates, although in all capacities their relationship is always tested primarily by Sheldon's regimented, deeply eccentric, and non-conventional ways. They are also friends with their Cal Tech colleagues mechanical engineer Howard Wolowitz and astrophysicist Rajesh Koothrappali. The foursome spend their time working on their individual work projects, playing video games, watching science-fiction movies, or reading comic books. As they are self-professed nerds, all have little or no luck with popular women. When Penny, a pretty woman and an aspiring actress originally from Omaha, moves into the apartment next to Leonard and Sheldon's, Leonard has another aspiration in life, namely to get Penny to be his girlfriend</plot>
+      <plotoutline>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</plotoutline>
+      <plot>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam cursus consectetur ipsum, eu tincidunt dui aliquam ac. Sed scelerisque, augue eu lacinia ultrices, libero ante ullamcorper augue, vel malesuada justo risus ac nulla. Quisque ac libero libero. Sed tincidunt, orci eu condimentum laoreet, felis odio mattis est, et lacinia metus enim in leo. Fusce faucibus tristique risus in varius. Etiam sagittis venenatis ligula nec rutrum. Etiam gravida dictum hendrerit. Sed sodales felis in sapien rutrum non malesuada nisi lobortis. Mauris iaculis ante odio. Nunc gravida erat convallis purus dignissim et ultricies orci dapibus. Aliquam erat volutpat. Vestibulum mi felis, malesuada ac tincidunt sit amet, pulvinar nec dolor. Pellentesque vehicula est vulputate mi adipiscing euismod. Donec ac mauris nulla. Nullam suscipit felis eu quam sodales ac bibendum nisi interdum. Curabitur non lectus a ante venenatis semper eget id justo. Ut facilisis, ligula pretium dictum congue, lacus dolor commodo nibh, sit amet sodales sed. </plot>
       <icon></icon>
       <genretype>48</genretype>
       <genresubtype>0</genresubtype>
     </entry>
     <entry>
-      <broadcastid>500</broadcastid>
-      <title>White Collar</title>
-      <channelid>5</channelid>
+      <broadcastid>400</broadcastid>
+      <title>Demo EPG entry 4</title>
+      <channelid>4</channelid>
       <start>0</start>
       <end>7200</end>
-      <plotoutline>A white collar criminal agrees to help the FBI catch other white collar criminals using his expertise as an art and securities thief, counterfeiter and racketeer.</plotoutline>
-      <plot>The unlikely partnership between charming con artist Neal Caffrey and straightman FBI agent Peter Burke. Caffrey provides his expertise to help Burke catch other elusive criminals in exchange for his freedom, and together they prove that to solve the hardest crimes, you must hire the smartest criminal.</plot>
+      <plotoutline>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</plotoutline>
+      <plot>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam cursus consectetur ipsum, eu tincidunt dui aliquam ac. Sed scelerisque, augue eu lacinia ultrices, libero ante ullamcorper augue, vel malesuada justo risus ac nulla. Quisque ac libero libero. Sed tincidunt, orci eu condimentum laoreet, felis odio mattis est, et lacinia metus enim in leo. Fusce faucibus tristique risus in varius. Etiam sagittis venenatis ligula nec rutrum. Etiam gravida dictum hendrerit. Sed sodales felis in sapien rutrum non malesuada nisi lobortis. Mauris iaculis ante odio. Nunc gravida erat convallis purus dignissim et ultricies orci dapibus. Aliquam erat volutpat. Vestibulum mi felis, malesuada ac tincidunt sit amet, pulvinar nec dolor. Pellentesque vehicula est vulputate mi adipiscing euismod. Donec ac mauris nulla. Nullam suscipit felis eu quam sodales ac bibendum nisi interdum. Curabitur non lectus a ante venenatis semper eget id justo. Ut facilisis, ligula pretium dictum congue, lacus dolor commodo nibh, sit amet sodales sed. </plot>
       <icon></icon>
       <genretype>64</genretype>
       <genresubtype>0</genresubtype>
     </entry>
     <entry>
-      <broadcastid>600</broadcastid>
-      <title>Bones</title>
-      <channelid>6</channelid>
+      <broadcastid>500</broadcastid>
+      <title>Demo EPG entry 5</title>
+      <channelid>5</channelid>
       <start>0</start>
       <end>7200</end>
-      <plotoutline>A forensic anthropologist and a cocky FBI agent build a team to investigate death causes. And quite often, there isn't more to examine than rotten flesh or mere bones.</plotoutline>
-      <plot>Brilliant, but socially inept, forensic anthropologist Dr. Temperence Brennan works at the Jeffersonian Institute in Washington DC. After consulting for him on a FBI case, she is approached by cocky yet charming ex-Army Ranger turned Special Agent, Seeley Booth to help the Bureau solve crimes by identifying human remains that are too far gone for standard FBI forensic investigations. Brennan's empirical, literal view of the world causes friction with Booths emotive, instinctive attitude creating a volatile relationship. However as their case load increases the symbiotic partnership produces results and with the support of Brennan's Squint Squad, murderers, past and present should be on the look out.</plot>
+      <plotoutline>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</plotoutline>
+      <plot>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam cursus consectetur ipsum, eu tincidunt dui aliquam ac. Sed scelerisque, augue eu lacinia ultrices, libero ante ullamcorper augue, vel malesuada justo risus ac nulla. Quisque ac libero libero. Sed tincidunt, orci eu condimentum laoreet, felis odio mattis est, et lacinia metus enim in leo. Fusce faucibus tristique risus in varius. Etiam sagittis venenatis ligula nec rutrum. Etiam gravida dictum hendrerit. Sed sodales felis in sapien rutrum non malesuada nisi lobortis. Mauris iaculis ante odio. Nunc gravida erat convallis purus dignissim et ultricies orci dapibus. Aliquam erat volutpat. Vestibulum mi felis, malesuada ac tincidunt sit amet, pulvinar nec dolor. Pellentesque vehicula est vulputate mi adipiscing euismod. Donec ac mauris nulla. Nullam suscipit felis eu quam sodales ac bibendum nisi interdum. Curabitur non lectus a ante venenatis semper eget id justo. Ut facilisis, ligula pretium dictum congue, lacus dolor commodo nibh, sit amet sodales sed. </plot>
       <icon></icon>
       <genretype>80</genretype>
       <genresubtype>0</genresubtype>
     </entry>
     <entry>
-      <broadcastid>700</broadcastid>
-      <title>Psych</title>
-      <channelid>7</channelid>
+      <broadcastid>600</broadcastid>
+      <title>Demo EPG entry 6</title>
+      <channelid>6</channelid>
       <start>0</start>
       <end>7200</end>
-      <plotoutline>A novice sleuth is hired by the police after he cons them into thinking he has psychic powers that help solve crimes. With this assistance of his reluctant best friend the duo take on a series of complicated cases.</plotoutline>
-      <plot>During his childhood, Shawn Spencer developed a remarkable talent for noticing the tiniest of details under the guidance of his policeman father. However, upon growing up he found it difficult to get a job, and spends most of his time using his skill to give the police anonymous tips. However, the tips are so good that some cops become suspicious that he is involved with the crimes himself. To clear his name Shawn finally settles on a career: he pretends to be a psychic. No one really believes him, but he continues to be so helpful to the police that they keep calling him in on cases they can't solve. Shawn soon brings his childhood friend Gus into his scheme, and between their bantering they manage to solve every case they're presented with.</plot>
+      <plotoutline>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</plotoutline>
+      <plot>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam cursus consectetur ipsum, eu tincidunt dui aliquam ac. Sed scelerisque, augue eu lacinia ultrices, libero ante ullamcorper augue, vel malesuada justo risus ac nulla. Quisque ac libero libero. Sed tincidunt, orci eu condimentum laoreet, felis odio mattis est, et lacinia metus enim in leo. Fusce faucibus tristique risus in varius. Etiam sagittis venenatis ligula nec rutrum. Etiam gravida dictum hendrerit. Sed sodales felis in sapien rutrum non malesuada nisi lobortis. Mauris iaculis ante odio. Nunc gravida erat convallis purus dignissim et ultricies orci dapibus. Aliquam erat volutpat. Vestibulum mi felis, malesuada ac tincidunt sit amet, pulvinar nec dolor. Pellentesque vehicula est vulputate mi adipiscing euismod. Donec ac mauris nulla. Nullam suscipit felis eu quam sodales ac bibendum nisi interdum. Curabitur non lectus a ante venenatis semper eget id justo. Ut facilisis, ligula pretium dictum congue, lacus dolor commodo nibh, sit amet sodales sed. </plot>
       <icon></icon>
       <genretype>96</genretype>
       <genresubtype>0</genresubtype>
     </entry>
     <entry>
-      <broadcastid>800</broadcastid>
-      <title>Justified</title>
-      <channelid>8</channelid>
+      <broadcastid>700</broadcastid>
+      <title>Demo EPG entry 7</title>
+      <channelid>7</channelid>
       <start>0</start>
       <end>7200</end>
-      <plotoutline>Old-school U.S. Marshal Raylan Givens is reassigned from Miami to his childhood home in the poor, rural coal-mining towns in Eastern Kentucky.</plotoutline>
-      <plot>U.S. Marshal Raylan Givens is a modern day 19th century-style lawman, enforcing his brand of justice in a way that puts a target on his back with criminals and places him at odds with his bosses in the Marshal service. That conflict results in a reassignment for Givens to the U.S. District covering the town where he grew up. He is an anachronism - a tough, soft spoken gentleman who finds his quarry fascinating, but never gives an inch. Dig under his placid skin and you'll find an angry man who grew up hard in rural Kentucky, with an outlaw father, who knows a lot more about who he doesn't want to be than who he really is.</plot>
+      <plotoutline>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</plotoutline>
+      <plot>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam cursus consectetur ipsum, eu tincidunt dui aliquam ac. Sed scelerisque, augue eu lacinia ultrices, libero ante ullamcorper augue, vel malesuada justo risus ac nulla. Quisque ac libero libero. Sed tincidunt, orci eu condimentum laoreet, felis odio mattis est, et lacinia metus enim in leo. Fusce faucibus tristique risus in varius. Etiam sagittis venenatis ligula nec rutrum. Etiam gravida dictum hendrerit. Sed sodales felis in sapien rutrum non malesuada nisi lobortis. Mauris iaculis ante odio. Nunc gravida erat convallis purus dignissim et ultricies orci dapibus. Aliquam erat volutpat. Vestibulum mi felis, malesuada ac tincidunt sit amet, pulvinar nec dolor. Pellentesque vehicula est vulputate mi adipiscing euismod. Donec ac mauris nulla. Nullam suscipit felis eu quam sodales ac bibendum nisi interdum. Curabitur non lectus a ante venenatis semper eget id justo. Ut facilisis, ligula pretium dictum congue, lacus dolor commodo nibh, sit amet sodales sed. </plot>
       <icon></icon>
       <genretype>112</genretype>
       <genresubtype>0</genresubtype>
     </entry>
     <entry>
-      <broadcastid>900</broadcastid>
-      <title>Smallville</title>
-      <channelid>9</channelid>
+      <broadcastid>800</broadcastid>
+      <title>Demo EPG entry 8</title>
+      <channelid>8</channelid>
       <start>0</start>
       <end>7200</end>
-      <plotoutline>A young Clark Kent struggles to find his place in the world as he learns to harness his alien powers for good and deals with the typical troubles of teenage life in Smallville.</plotoutline>
-      <plot>The numerous miraculous rescues by the local wonder boy Clark have aroused suspicions amongst colonials of Smallville. Interestingly, the boy has managed to downplay his acts of various heroic egresses in the past. They say he's either too fast or has a penchant for finding trouble. He was found by Martha and Jonathan Kent on the day of the Meteor Shower, and subsequently adopted. Clark's friend Lex Luthor, the only heir of Luthorcorp, has been secretly investigating grounds for Clark's outlandish valor. However, on the face of it, Clark just seems a normal boy who's slightly more secretive than usual.</plot>
+      <plotoutline>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</plotoutline>
+      <plot>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam cursus consectetur ipsum, eu tincidunt dui aliquam ac. Sed scelerisque, augue eu lacinia ultrices, libero ante ullamcorper augue, vel malesuada justo risus ac nulla. Quisque ac libero libero. Sed tincidunt, orci eu condimentum laoreet, felis odio mattis est, et lacinia metus enim in leo. Fusce faucibus tristique risus in varius. Etiam sagittis venenatis ligula nec rutrum. Etiam gravida dictum hendrerit. Sed sodales felis in sapien rutrum non malesuada nisi lobortis. Mauris iaculis ante odio. Nunc gravida erat convallis purus dignissim et ultricies orci dapibus. Aliquam erat volutpat. Vestibulum mi felis, malesuada ac tincidunt sit amet, pulvinar nec dolor. Pellentesque vehicula est vulputate mi adipiscing euismod. Donec ac mauris nulla. Nullam suscipit felis eu quam sodales ac bibendum nisi interdum. Curabitur non lectus a ante venenatis semper eget id justo. Ut facilisis, ligula pretium dictum congue, lacus dolor commodo nibh, sit amet sodales sed. </plot>
       <icon></icon>
       <genretype>128</genretype>
       <genresubtype>0</genresubtype>
     </entry>
     <entry>
-      <broadcastid>1000</broadcastid>
-      <title>Doctor Who</title>
-      <channelid>10</channelid>
+      <broadcastid>900</broadcastid>
+      <title>Demo EPG entry 9</title>
+      <channelid>9</channelid>
       <start>0</start>
       <end>7200</end>
-      <plotoutline>The further adventures of the time traveling alien adventurer and his companions.</plotoutline>
-      <plot>The continuing adventures of The Doctor, an alien time traveler - a Time Lord - from Gallifrey. Together with his companions they travel through time and space in the TARDIS, battling evil where they find it.</plot>
+      <plotoutline>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</plotoutline>
+      <plot>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam cursus consectetur ipsum, eu tincidunt dui aliquam ac. Sed scelerisque, augue eu lacinia ultrices, libero ante ullamcorper augue, vel malesuada justo risus ac nulla. Quisque ac libero libero. Sed tincidunt, orci eu condimentum laoreet, felis odio mattis est, et lacinia metus enim in leo. Fusce faucibus tristique risus in varius. Etiam sagittis venenatis ligula nec rutrum. Etiam gravida dictum hendrerit. Sed sodales felis in sapien rutrum non malesuada nisi lobortis. Mauris iaculis ante odio. Nunc gravida erat convallis purus dignissim et ultricies orci dapibus. Aliquam erat volutpat. Vestibulum mi felis, malesuada ac tincidunt sit amet, pulvinar nec dolor. Pellentesque vehicula est vulputate mi adipiscing euismod. Donec ac mauris nulla. Nullam suscipit felis eu quam sodales ac bibendum nisi interdum. Curabitur non lectus a ante venenatis semper eget id justo. Ut facilisis, ligula pretium dictum congue, lacus dolor commodo nibh, sit amet sodales sed. </plot>
       <icon></icon>
       <genretype>144</genretype>
       <genresubtype>0</genresubtype>
     </entry>
     <entry>
+      <broadcastid>1000</broadcastid>
+      <title>Demo EPG entry 10</title>
+      <channelid>10</channelid>
+      <start>0</start>
+      <end>7200</end>
+      <plotoutline>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</plotoutline>
+      <plot>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam cursus consectetur ipsum, eu tincidunt dui aliquam ac. Sed scelerisque, augue eu lacinia ultrices, libero ante ullamcorper augue, vel malesuada justo risus ac nulla. Quisque ac libero libero. Sed tincidunt, orci eu condimentum laoreet, felis odio mattis est, et lacinia metus enim in leo. Fusce faucibus tristique risus in varius. Etiam sagittis venenatis ligula nec rutrum. Etiam gravida dictum hendrerit. Sed sodales felis in sapien rutrum non malesuada nisi lobortis. Mauris iaculis ante odio. Nunc gravida erat convallis purus dignissim et ultricies orci dapibus. Aliquam erat volutpat. Vestibulum mi felis, malesuada ac tincidunt sit amet, pulvinar nec dolor. Pellentesque vehicula est vulputate mi adipiscing euismod. Donec ac mauris nulla. Nullam suscipit felis eu quam sodales ac bibendum nisi interdum. Curabitur non lectus a ante venenatis semper eget id justo. Ut facilisis, ligula pretium dictum congue, lacus dolor commodo nibh, sit amet sodales sed. </plot>
+      <icon></icon>
+      <genretype>160</genretype>
+      <genresubtype>0</genresubtype>
+    </entry>
+    <entry>
       <broadcastid>1100</broadcastid>
-      <title>Stargate Universe</title>
+      <title>Demo EPG entry 11</title>
       <channelid>11</channelid>
       <start>0</start>
       <end>7200</end>
-      <plotoutline>Trapped on an Ancient spaceship billions of light years from home, a group of soldiers and civilians struggle to survive and find their way back to Earth.</plotoutline>
-      <plot>The Previously unknown purpose of the "Ninth Chevron" is revealed, and ends up taking a team to an Ancient ship "Destiny", a ship built millions of years ago by the Ancients, used to seed Distant galaxies with Stargates. This team, led by Dr. Nicolas Rush and Colonel Everett Young, is trapped on the ship, unable to change its programmed mission. The team encounters new races, new technology and new enemies as the runaway ship travels to the far ends of the Universe.</plot>
+      <plotoutline>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</plotoutline>
+      <plot>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam cursus consectetur ipsum, eu tincidunt dui aliquam ac. Sed scelerisque, augue eu lacinia ultrices, libero ante ullamcorper augue, vel malesuada justo risus ac nulla. Quisque ac libero libero. Sed tincidunt, orci eu condimentum laoreet, felis odio mattis est, et lacinia metus enim in leo. Fusce faucibus tristique risus in varius. Etiam sagittis venenatis ligula nec rutrum. Etiam gravida dictum hendrerit. Sed sodales felis in sapien rutrum non malesuada nisi lobortis. Mauris iaculis ante odio. Nunc gravida erat convallis purus dignissim et ultricies orci dapibus. Aliquam erat volutpat. Vestibulum mi felis, malesuada ac tincidunt sit amet, pulvinar nec dolor. Pellentesque vehicula est vulputate mi adipiscing euismod. Donec ac mauris nulla. Nullam suscipit felis eu quam sodales ac bibendum nisi interdum. Curabitur non lectus a ante venenatis semper eget id justo. Ut facilisis, ligula pretium dictum congue, lacus dolor commodo nibh, sit amet sodales sed. </plot>
       <icon></icon>
-      <genretype>160</genretype>
+      <genretype>176</genretype>
       <genresubtype>0</genresubtype>
     </entry>
 
     <entry>
       <broadcastid>1200</broadcastid>
-      <title>Demo Radio EPG entry #1</title>
+      <title>Demo Radio EPG entry 1</title>
       <channelid>12</channelid>
       <start>0</start>
       <end>7200</end>
       <plotoutline>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</plotoutline>
-      <plot>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam cursus consectetur ipsum, eu tincidunt dui aliquam ac. Sed scelerisque, augue eu lacinia ultrices, libero ante ullamcorper augue, vel malesuada justo risus ac nulla. Quisque ac libero libero. Sed tincidunt, orci eu condimentum laoreet, felis odio mattis est, et lacinia metus enim in leo. Fusce faucibus tristique risus in varius. Etiam sagittis venenatis ligula nec rutrum. Etiam gravida dictum hendrerit. Sed sodales felis in sapien rutrum non malesuada nisi lobortis. Mauris iaculis ante odio. Nunc gravida erat convallis purus dignissim et ultricies orci dapibus. Aliquam erat volutpat. Vestibulum mi felis, malesuada ac tincidunt sit amet, pulvinar nec dolor. Pellentesque vehicula est vulputate mi adipiscing euismod. Donec ac mauris nulla. Nullam suscipit felis eu quam sodales ac bibendum nisi interdum. Curabitur non lectus a ante venenatis semper eget id justo. Ut facilisis, ligula pretium dictum congue, lacus dolor commodo nibh, sit amet sodales sed.</plot>
+      <plot>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam cursus consectetur ipsum, eu tincidunt dui aliquam ac. Sed scelerisque, augue eu lacinia ultrices, libero ante ullamcorper augue, vel malesuada justo risus ac nulla. Quisque ac libero libero. Sed tincidunt, orci eu condimentum laoreet, felis odio mattis est, et lacinia metus enim in leo. Fusce faucibus tristique risus in varius. Etiam sagittis venenatis ligula nec rutrum. Etiam gravida dictum hendrerit. Sed sodales felis in sapien rutrum non malesuada nisi lobortis. Mauris iaculis ante odio. Nunc gravida erat convallis purus dignissim et ultricies orci dapibus. Aliquam erat volutpat. Vestibulum mi felis, malesuada ac tincidunt sit amet, pulvinar nec dolor. Pellentesque vehicula est vulputate mi adipiscing euismod. Donec ac mauris nulla. Nullam suscipit felis eu quam sodales ac bibendum nisi interdum. Curabitur non lectus a ante venenatis semper eget id justo. Ut facilisis, ligula pretium dictum congue, lacus dolor commodo nibh, sit amet sodales sed. </plot>
       <icon></icon>
       <genretype>30</genretype>
       <genresubtype>0</genresubtype>
     </entry>
     <entry>
       <broadcastid>1300</broadcastid>
-      <title>Demo Radio EPG entry #2</title>
+      <title>Demo Radio EPG entry 2</title>
       <channelid>13</channelid>
       <start>0</start>
       <end>7200</end>
       <plotoutline>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</plotoutline>
-      <plot>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam cursus consectetur ipsum, eu tincidunt dui aliquam ac. Sed scelerisque, augue eu lacinia ultrices, libero ante ullamcorper augue, vel malesuada justo risus ac nulla. Quisque ac libero libero. Sed tincidunt, orci eu condimentum laoreet, felis odio mattis est, et lacinia metus enim in leo. Fusce faucibus tristique risus in varius. Etiam sagittis venenatis ligula nec rutrum. Etiam gravida dictum hendrerit. Sed sodales felis in sapien rutrum non malesuada nisi lobortis. Mauris iaculis ante odio. Nunc gravida erat convallis purus dignissim et ultricies orci dapibus. Aliquam erat volutpat. Vestibulum mi felis, malesuada ac tincidunt sit amet, pulvinar nec dolor. Pellentesque vehicula est vulputate mi adipiscing euismod. Donec ac mauris nulla. Nullam suscipit felis eu quam sodales ac bibendum nisi interdum. Curabitur non lectus a ante venenatis semper eget id justo. Ut facilisis, ligula pretium dictum congue, lacus dolor commodo nibh, sit amet sodales sed.</plot>
+      <plot>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam cursus consectetur ipsum, eu tincidunt dui aliquam ac. Sed scelerisque, augue eu lacinia ultrices, libero ante ullamcorper augue, vel malesuada justo risus ac nulla. Quisque ac libero libero. Sed tincidunt, orci eu condimentum laoreet, felis odio mattis est, et lacinia metus enim in leo. Fusce faucibus tristique risus in varius. Etiam sagittis venenatis ligula nec rutrum. Etiam gravida dictum hendrerit. Sed sodales felis in sapien rutrum non malesuada nisi lobortis. Mauris iaculis ante odio. Nunc gravida erat convallis purus dignissim et ultricies orci dapibus. Aliquam erat volutpat. Vestibulum mi felis, malesuada ac tincidunt sit amet, pulvinar nec dolor. Pellentesque vehicula est vulputate mi adipiscing euismod. Donec ac mauris nulla. Nullam suscipit felis eu quam sodales ac bibendum nisi interdum. Curabitur non lectus a ante venenatis semper eget id justo. Ut facilisis, ligula pretium dictum congue, lacus dolor commodo nibh, sit amet sodales sed. </plot>
       <icon></icon>
       <genretype>10</genretype>
       <genresubtype>0</genresubtype>
     </entry>
     <entry>
       <broadcastid>1400</broadcastid>
-      <title>Demo Radio EPG entry #3</title>
+      <title>Demo Radio EPG entry 3</title>
       <channelid>14</channelid>
       <start>0</start>
       <end>7200</end>
       <plotoutline>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</plotoutline>
-      <plot>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam cursus consectetur ipsum, eu tincidunt dui aliquam ac. Sed scelerisque, augue eu lacinia ultrices, libero ante ullamcorper augue, vel malesuada justo risus ac nulla. Quisque ac libero libero. Sed tincidunt, orci eu condimentum laoreet, felis odio mattis est, et lacinia metus enim in leo. Fusce faucibus tristique risus in varius. Etiam sagittis venenatis ligula nec rutrum. Etiam gravida dictum hendrerit. Sed sodales felis in sapien rutrum non malesuada nisi lobortis. Mauris iaculis ante odio. Nunc gravida erat convallis purus dignissim et ultricies orci dapibus. Aliquam erat volutpat. Vestibulum mi felis, malesuada ac tincidunt sit amet, pulvinar nec dolor. Pellentesque vehicula est vulputate mi adipiscing euismod. Donec ac mauris nulla. Nullam suscipit felis eu quam sodales ac bibendum nisi interdum. Curabitur non lectus a ante venenatis semper eget id justo. Ut facilisis, ligula pretium dictum congue, lacus dolor commodo nibh, sit amet sodales sed.</plot>
+      <plot>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam cursus consectetur ipsum, eu tincidunt dui aliquam ac. Sed scelerisque, augue eu lacinia ultrices, libero ante ullamcorper augue, vel malesuada justo risus ac nulla. Quisque ac libero libero. Sed tincidunt, orci eu condimentum laoreet, felis odio mattis est, et lacinia metus enim in leo. Fusce faucibus tristique risus in varius. Etiam sagittis venenatis ligula nec rutrum. Etiam gravida dictum hendrerit. Sed sodales felis in sapien rutrum non malesuada nisi lobortis. Mauris iaculis ante odio. Nunc gravida erat convallis purus dignissim et ultricies orci dapibus. Aliquam erat volutpat. Vestibulum mi felis, malesuada ac tincidunt sit amet, pulvinar nec dolor. Pellentesque vehicula est vulputate mi adipiscing euismod. Donec ac mauris nulla. Nullam suscipit felis eu quam sodales ac bibendum nisi interdum. Curabitur non lectus a ante venenatis semper eget id justo. Ut facilisis, ligula pretium dictum congue, lacus dolor commodo nibh, sit amet sodales sed. </plot>
       <icon></icon>
       <genretype>20</genretype>
       <genresubtype>0</genresubtype>
     </entry>
     <entry>
       <broadcastid>1500</broadcastid>
-      <title>Demo Radio EPG entry #4</title>
+      <title>Demo Radio EPG entry 4</title>
       <channelid>15</channelid>
       <start>0</start>
       <end>7200</end>
       <plotoutline>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</plotoutline>
-      <plot>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam cursus consectetur ipsum, eu tincidunt dui aliquam ac. Sed scelerisque, augue eu lacinia ultrices, libero ante ullamcorper augue, vel malesuada justo risus ac nulla. Quisque ac libero libero. Sed tincidunt, orci eu condimentum laoreet, felis odio mattis est, et lacinia metus enim in leo. Fusce faucibus tristique risus in varius. Etiam sagittis venenatis ligula nec rutrum. Etiam gravida dictum hendrerit. Sed sodales felis in sapien rutrum non malesuada nisi lobortis. Mauris iaculis ante odio. Nunc gravida erat convallis purus dignissim et ultricies orci dapibus. Aliquam erat volutpat. Vestibulum mi felis, malesuada ac tincidunt sit amet, pulvinar nec dolor. Pellentesque vehicula est vulputate mi adipiscing euismod. Donec ac mauris nulla. Nullam suscipit felis eu quam sodales ac bibendum nisi interdum. Curabitur non lectus a ante venenatis semper eget id justo. Ut facilisis, ligula pretium dictum congue, lacus dolor commodo nibh, sit amet sodales sed.</plot>
+      <plot>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam cursus consectetur ipsum, eu tincidunt dui aliquam ac. Sed scelerisque, augue eu lacinia ultrices, libero ante ullamcorper augue, vel malesuada justo risus ac nulla. Quisque ac libero libero. Sed tincidunt, orci eu condimentum laoreet, felis odio mattis est, et lacinia metus enim in leo. Fusce faucibus tristique risus in varius. Etiam sagittis venenatis ligula nec rutrum. Etiam gravida dictum hendrerit. Sed sodales felis in sapien rutrum non malesuada nisi lobortis. Mauris iaculis ante odio. Nunc gravida erat convallis purus dignissim et ultricies orci dapibus. Aliquam erat volutpat. Vestibulum mi felis, malesuada ac tincidunt sit amet, pulvinar nec dolor. Pellentesque vehicula est vulputate mi adipiscing euismod. Donec ac mauris nulla. Nullam suscipit felis eu quam sodales ac bibendum nisi interdum. Curabitur non lectus a ante venenatis semper eget id justo. Ut facilisis, ligula pretium dictum congue, lacus dolor commodo nibh, sit amet sodales sed. </plot>
       <icon></icon>
       <genretype>30</genretype>
       <genresubtype>0</genresubtype>
     </entry>
     <entry>
       <broadcastid>1600</broadcastid>
-      <title>Demo Radio EPG entry #5</title>
+      <title>Demo Radio EPG entry 5</title>
       <channelid>16</channelid>
       <start>0</start>
       <end>7200</end>
       <plotoutline>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</plotoutline>
-      <plot>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam cursus consectetur ipsum, eu tincidunt dui aliquam ac. Sed scelerisque, augue eu lacinia ultrices, libero ante ullamcorper augue, vel malesuada justo risus ac nulla. Quisque ac libero libero. Sed tincidunt, orci eu condimentum laoreet, felis odio mattis est, et lacinia metus enim in leo. Fusce faucibus tristique risus in varius. Etiam sagittis venenatis ligula nec rutrum. Etiam gravida dictum hendrerit. Sed sodales felis in sapien rutrum non malesuada nisi lobortis. Mauris iaculis ante odio. Nunc gravida erat convallis purus dignissim et ultricies orci dapibus. Aliquam erat volutpat. Vestibulum mi felis, malesuada ac tincidunt sit amet, pulvinar nec dolor. Pellentesque vehicula est vulputate mi adipiscing euismod. Donec ac mauris nulla. Nullam suscipit felis eu quam sodales ac bibendum nisi interdum. Curabitur non lectus a ante venenatis semper eget id justo. Ut facilisis, ligula pretium dictum congue, lacus dolor commodo nibh, sit amet sodales sed.</plot>
+      <plot>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam cursus consectetur ipsum, eu tincidunt dui aliquam ac. Sed scelerisque, augue eu lacinia ultrices, libero ante ullamcorper augue, vel malesuada justo risus ac nulla. Quisque ac libero libero. Sed tincidunt, orci eu condimentum laoreet, felis odio mattis est, et lacinia metus enim in leo. Fusce faucibus tristique risus in varius. Etiam sagittis venenatis ligula nec rutrum. Etiam gravida dictum hendrerit. Sed sodales felis in sapien rutrum non malesuada nisi lobortis. Mauris iaculis ante odio. Nunc gravida erat convallis purus dignissim et ultricies orci dapibus. Aliquam erat volutpat. Vestibulum mi felis, malesuada ac tincidunt sit amet, pulvinar nec dolor. Pellentesque vehicula est vulputate mi adipiscing euismod. Donec ac mauris nulla. Nullam suscipit felis eu quam sodales ac bibendum nisi interdum. Curabitur non lectus a ante venenatis semper eget id justo. Ut facilisis, ligula pretium dictum congue, lacus dolor commodo nibh, sit amet sodales sed. </plot>
       <icon></icon>
       <genretype>10</genretype>
       <genresubtype>0</genresubtype>
     </entry>
     <entry>
       <broadcastid>1700</broadcastid>
-      <title>Demo Radio EPG entry #6</title>
+      <title>Demo Radio EPG entry 6</title>
       <channelid>17</channelid>
       <start>0</start>
       <end>7200</end>
       <plotoutline>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</plotoutline>
-      <plot>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam cursus consectetur ipsum, eu tincidunt dui aliquam ac. Sed scelerisque, augue eu lacinia ultrices, libero ante ullamcorper augue, vel malesuada justo risus ac nulla. Quisque ac libero libero. Sed tincidunt, orci eu condimentum laoreet, felis odio mattis est, et lacinia metus enim in leo. Fusce faucibus tristique risus in varius. Etiam sagittis venenatis ligula nec rutrum. Etiam gravida dictum hendrerit. Sed sodales felis in sapien rutrum non malesuada nisi lobortis. Mauris iaculis ante odio. Nunc gravida erat convallis purus dignissim et ultricies orci dapibus. Aliquam erat volutpat. Vestibulum mi felis, malesuada ac tincidunt sit amet, pulvinar nec dolor. Pellentesque vehicula est vulputate mi adipiscing euismod. Donec ac mauris nulla. Nullam suscipit felis eu quam sodales ac bibendum nisi interdum. Curabitur non lectus a ante venenatis semper eget id justo. Ut facilisis, ligula pretium dictum congue, lacus dolor commodo nibh, sit amet sodales sed.</plot>
+      <plot>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam cursus consectetur ipsum, eu tincidunt dui aliquam ac. Sed scelerisque, augue eu lacinia ultrices, libero ante ullamcorper augue, vel malesuada justo risus ac nulla. Quisque ac libero libero. Sed tincidunt, orci eu condimentum laoreet, felis odio mattis est, et lacinia metus enim in leo. Fusce faucibus tristique risus in varius. Etiam sagittis venenatis ligula nec rutrum. Etiam gravida dictum hendrerit. Sed sodales felis in sapien rutrum non malesuada nisi lobortis. Mauris iaculis ante odio. Nunc gravida erat convallis purus dignissim et ultricies orci dapibus. Aliquam erat volutpat. Vestibulum mi felis, malesuada ac tincidunt sit amet, pulvinar nec dolor. Pellentesque vehicula est vulputate mi adipiscing euismod. Donec ac mauris nulla. Nullam suscipit felis eu quam sodales ac bibendum nisi interdum. Curabitur non lectus a ante venenatis semper eget id justo. Ut facilisis, ligula pretium dictum congue, lacus dolor commodo nibh, sit amet sodales sed. </plot>
       <icon></icon>
       <genretype>20</genretype>
       <genresubtype>0</genresubtype>
     </entry>
     <entry>
       <broadcastid>1800</broadcastid>
-      <title>Demo Radio EPG entry #7</title>
+      <title>Demo Radio EPG entry 7</title>
       <channelid>18</channelid>
       <start>0</start>
       <end>7200</end>
       <plotoutline>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</plotoutline>
-      <plot>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam cursus consectetur ipsum, eu tincidunt dui aliquam ac. Sed scelerisque, augue eu lacinia ultrices, libero ante ullamcorper augue, vel malesuada justo risus ac nulla. Quisque ac libero libero. Sed tincidunt, orci eu condimentum laoreet, felis odio mattis est, et lacinia metus enim in leo. Fusce faucibus tristique risus in varius. Etiam sagittis venenatis ligula nec rutrum. Etiam gravida dictum hendrerit. Sed sodales felis in sapien rutrum non malesuada nisi lobortis. Mauris iaculis ante odio. Nunc gravida erat convallis purus dignissim et ultricies orci dapibus. Aliquam erat volutpat. Vestibulum mi felis, malesuada ac tincidunt sit amet, pulvinar nec dolor. Pellentesque vehicula est vulputate mi adipiscing euismod. Donec ac mauris nulla. Nullam suscipit felis eu quam sodales ac bibendum nisi interdum. Curabitur non lectus a ante venenatis semper eget id justo. Ut facilisis, ligula pretium dictum congue, lacus dolor commodo nibh, sit amet sodales sed.</plot>
+      <plot>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam cursus consectetur ipsum, eu tincidunt dui aliquam ac. Sed scelerisque, augue eu lacinia ultrices, libero ante ullamcorper augue, vel malesuada justo risus ac nulla. Quisque ac libero libero. Sed tincidunt, orci eu condimentum laoreet, felis odio mattis est, et lacinia metus enim in leo. Fusce faucibus tristique risus in varius. Etiam sagittis venenatis ligula nec rutrum. Etiam gravida dictum hendrerit. Sed sodales felis in sapien rutrum non malesuada nisi lobortis. Mauris iaculis ante odio. Nunc gravida erat convallis purus dignissim et ultricies orci dapibus. Aliquam erat volutpat. Vestibulum mi felis, malesuada ac tincidunt sit amet, pulvinar nec dolor. Pellentesque vehicula est vulputate mi adipiscing euismod. Donec ac mauris nulla. Nullam suscipit felis eu quam sodales ac bibendum nisi interdum. Curabitur non lectus a ante venenatis semper eget id justo. Ut facilisis, ligula pretium dictum congue, lacus dolor commodo nibh, sit amet sodales sed. </plot>
       <icon></icon>
       <genretype>30</genretype>
       <genresubtype>0</genresubtype>
     </entry>
     <entry>
       <broadcastid>1900</broadcastid>
-      <title>Demo Radio EPG entry #8</title>
+      <title>Demo Radio EPG entry 8</title>
       <channelid>19</channelid>
       <start>0</start>
       <end>7200</end>
       <plotoutline>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</plotoutline>
-      <plot>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam cursus consectetur ipsum, eu tincidunt dui aliquam ac. Sed scelerisque, augue eu lacinia ultrices, libero ante ullamcorper augue, vel malesuada justo risus ac nulla. Quisque ac libero libero. Sed tincidunt, orci eu condimentum laoreet, felis odio mattis est, et lacinia metus enim in leo. Fusce faucibus tristique risus in varius. Etiam sagittis venenatis ligula nec rutrum. Etiam gravida dictum hendrerit. Sed sodales felis in sapien rutrum non malesuada nisi lobortis. Mauris iaculis ante odio. Nunc gravida erat convallis purus dignissim et ultricies orci dapibus. Aliquam erat volutpat. Vestibulum mi felis, malesuada ac tincidunt sit amet, pulvinar nec dolor. Pellentesque vehicula est vulputate mi adipiscing euismod. Donec ac mauris nulla. Nullam suscipit felis eu quam sodales ac bibendum nisi interdum. Curabitur non lectus a ante venenatis semper eget id justo. Ut facilisis, ligula pretium dictum congue, lacus dolor commodo nibh, sit amet sodales sed.</plot>
+      <plot>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam cursus consectetur ipsum, eu tincidunt dui aliquam ac. Sed scelerisque, augue eu lacinia ultrices, libero ante ullamcorper augue, vel malesuada justo risus ac nulla. Quisque ac libero libero. Sed tincidunt, orci eu condimentum laoreet, felis odio mattis est, et lacinia metus enim in leo. Fusce faucibus tristique risus in varius. Etiam sagittis venenatis ligula nec rutrum. Etiam gravida dictum hendrerit. Sed sodales felis in sapien rutrum non malesuada nisi lobortis. Mauris iaculis ante odio. Nunc gravida erat convallis purus dignissim et ultricies orci dapibus. Aliquam erat volutpat. Vestibulum mi felis, malesuada ac tincidunt sit amet, pulvinar nec dolor. Pellentesque vehicula est vulputate mi adipiscing euismod. Donec ac mauris nulla. Nullam suscipit felis eu quam sodales ac bibendum nisi interdum. Curabitur non lectus a ante venenatis semper eget id justo. Ut facilisis, ligula pretium dictum congue, lacus dolor commodo nibh, sit amet sodales sed. </plot>
       <icon></icon>
       <genretype>10</genretype>
       <genresubtype>0</genresubtype>
     </entry>
     <entry>
       <broadcastid>2000</broadcastid>
-      <title>Demo Radio EPG entry #9</title>
+      <title>Demo Radio EPG entry 9</title>
       <channelid>20</channelid>
       <start>0</start>
       <end>7200</end>
       <plotoutline>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</plotoutline>
-      <plot>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam cursus consectetur ipsum, eu tincidunt dui aliquam ac. Sed scelerisque, augue eu lacinia ultrices, libero ante ullamcorper augue, vel malesuada justo risus ac nulla. Quisque ac libero libero. Sed tincidunt, orci eu condimentum laoreet, felis odio mattis est, et lacinia metus enim in leo. Fusce faucibus tristique risus in varius. Etiam sagittis venenatis ligula nec rutrum. Etiam gravida dictum hendrerit. Sed sodales felis in sapien rutrum non malesuada nisi lobortis. Mauris iaculis ante odio. Nunc gravida erat convallis purus dignissim et ultricies orci dapibus. Aliquam erat volutpat. Vestibulum mi felis, malesuada ac tincidunt sit amet, pulvinar nec dolor. Pellentesque vehicula est vulputate mi adipiscing euismod. Donec ac mauris nulla. Nullam suscipit felis eu quam sodales ac bibendum nisi interdum. Curabitur non lectus a ante venenatis semper eget id justo. Ut facilisis, ligula pretium dictum congue, lacus dolor commodo nibh, sit amet sodales sed.</plot>
+      <plot>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam cursus consectetur ipsum, eu tincidunt dui aliquam ac. Sed scelerisque, augue eu lacinia ultrices, libero ante ullamcorper augue, vel malesuada justo risus ac nulla. Quisque ac libero libero. Sed tincidunt, orci eu condimentum laoreet, felis odio mattis est, et lacinia metus enim in leo. Fusce faucibus tristique risus in varius. Etiam sagittis venenatis ligula nec rutrum. Etiam gravida dictum hendrerit. Sed sodales felis in sapien rutrum non malesuada nisi lobortis. Mauris iaculis ante odio. Nunc gravida erat convallis purus dignissim et ultricies orci dapibus. Aliquam erat volutpat. Vestibulum mi felis, malesuada ac tincidunt sit amet, pulvinar nec dolor. Pellentesque vehicula est vulputate mi adipiscing euismod. Donec ac mauris nulla. Nullam suscipit felis eu quam sodales ac bibendum nisi interdum. Curabitur non lectus a ante venenatis semper eget id justo. Ut facilisis, ligula pretium dictum congue, lacus dolor commodo nibh, sit amet sodales sed. </plot>
       <icon></icon>
       <genretype>20</genretype>
       <genresubtype>0</genresubtype>
     </entry>
     <entry>
       <broadcastid>2100</broadcastid>
-      <title>Demo Radio EPG entry #10</title>
+      <title>Demo Radio EPG entry 10</title>
       <channelid>21</channelid>
       <start>0</start>
       <end>7200</end>
       <plotoutline>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</plotoutline>
-      <plot>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam cursus consectetur ipsum, eu tincidunt dui aliquam ac. Sed scelerisque, augue eu lacinia ultrices, libero ante ullamcorper augue, vel malesuada justo risus ac nulla. Quisque ac libero libero. Sed tincidunt, orci eu condimentum laoreet, felis odio mattis est, et lacinia metus enim in leo. Fusce faucibus tristique risus in varius. Etiam sagittis venenatis ligula nec rutrum. Etiam gravida dictum hendrerit. Sed sodales felis in sapien rutrum non malesuada nisi lobortis. Mauris iaculis ante odio. Nunc gravida erat convallis purus dignissim et ultricies orci dapibus. Aliquam erat volutpat. Vestibulum mi felis, malesuada ac tincidunt sit amet, pulvinar nec dolor. Pellentesque vehicula est vulputate mi adipiscing euismod. Donec ac mauris nulla. Nullam suscipit felis eu quam sodales ac bibendum nisi interdum. Curabitur non lectus a ante venenatis semper eget id justo. Ut facilisis, ligula pretium dictum congue, lacus dolor commodo nibh, sit amet sodales sed.</plot>
+      <plot>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam cursus consectetur ipsum, eu tincidunt dui aliquam ac. Sed scelerisque, augue eu lacinia ultrices, libero ante ullamcorper augue, vel malesuada justo risus ac nulla. Quisque ac libero libero. Sed tincidunt, orci eu condimentum laoreet, felis odio mattis est, et lacinia metus enim in leo. Fusce faucibus tristique risus in varius. Etiam sagittis venenatis ligula nec rutrum. Etiam gravida dictum hendrerit. Sed sodales felis in sapien rutrum non malesuada nisi lobortis. Mauris iaculis ante odio. Nunc gravida erat convallis purus dignissim et ultricies orci dapibus. Aliquam erat volutpat. Vestibulum mi felis, malesuada ac tincidunt sit amet, pulvinar nec dolor. Pellentesque vehicula est vulputate mi adipiscing euismod. Donec ac mauris nulla. Nullam suscipit felis eu quam sodales ac bibendum nisi interdum. Curabitur non lectus a ante venenatis semper eget id justo. Ut facilisis, ligula pretium dictum congue, lacus dolor commodo nibh, sit amet sodales sed. </plot>
       <icon></icon>
       <genretype>30</genretype>
       <genresubtype>0</genresubtype>
     </entry>
   </epg>
-
   <recordings>
     <recording>
-      <title>Demo Recording entry #1</title>
+      <title>Demo Recording entry 1</title>
       <url></url>
-      <channelname>Demo TV Channel #1</channelname>
+      <channelname>Demo TV Channel 1</channelname>
       <plotoutline>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</plotoutline>
       <plot>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam cursus consectetur ipsum, eu tincidunt dui aliquam ac. Sed scelerisque, augue eu lacinia ultrices, libero ante ullamcorper augue, vel malesuada justo risus ac nulla. Quisque ac libero libero. Sed tincidunt, orci eu condimentum laoreet, felis odio mattis est, et lacinia metus enim in leo. Fusce faucibus tristique risus in varius. Etiam sagittis venenatis ligula nec rutrum. Etiam gravida dictum hendrerit. Sed sodales felis in sapien rutrum non malesuada nisi lobortis. Mauris iaculis ante odio. Nunc gravida erat convallis purus dignissim et ultricies orci dapibus. Aliquam erat volutpat. Vestibulum mi felis, malesuada ac tincidunt sit amet, pulvinar nec dolor. Pellentesque vehicula est vulputate mi adipiscing euismod. Donec ac mauris nulla. Nullam suscipit felis eu quam sodales ac bibendum nisi interdum. Curabitur non lectus a ante venenatis semper eget id justo. Ut facilisis, ligula pretium dictum congue, lacus dolor commodo nibh, sit amet sodales sed.</plot>
       <genretype>10</genretype>
@@ -470,104 +469,103 @@
       <duration>7200</duration>
     </recording>
     <recording>
-      <title>Demo Recording entry #2</title>
+      <title>Demo Recording entry 2</title>
       <url></url>
-      <channelname>Demo TV Channel #2</channelname>
+      <channelname>Demo TV Channel 2</channelname>
       <plotoutline>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</plotoutline>
       <plot>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam cursus consectetur ipsum, eu tincidunt dui aliquam ac. Sed scelerisque, augue eu lacinia ultrices, libero ante ullamcorper augue, vel malesuada justo risus ac nulla. Quisque ac libero libero. Sed tincidunt, orci eu condimentum laoreet, felis odio mattis est, et lacinia metus enim in leo. Fusce faucibus tristique risus in varius. Etiam sagittis venenatis ligula nec rutrum. Etiam gravida dictum hendrerit. Sed sodales felis in sapien rutrum non malesuada nisi lobortis. Mauris iaculis ante odio. Nunc gravida erat convallis purus dignissim et ultricies orci dapibus. Aliquam erat volutpat. Vestibulum mi felis, malesuada ac tincidunt sit amet, pulvinar nec dolor. Pellentesque vehicula est vulputate mi adipiscing euismod. Donec ac mauris nulla. Nullam suscipit felis eu quam sodales ac bibendum nisi interdum. Curabitur non lectus a ante venenatis semper eget id justo. Ut facilisis, ligula pretium dictum congue, lacus dolor commodo nibh, sit amet sodales sed.</plot>
       <genretype>10</genretype>
       <genresubtype>0</genresubtype>
-      <time>12:00</time>
-      <duration>7200</duration>
+      <time>14:00</time>
+      <duration>7500</duration>
     </recording>
     <recording>
-      <title>Demo Recording entry #3</title>
+      <title>Demo Recording entry 3</title>
       <url></url>
-      <channelname>Demo TV Channel #3</channelname>
+      <channelname>Demo TV Channel 3</channelname>
       <plotoutline>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</plotoutline>
       <plot>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam cursus consectetur ipsum, eu tincidunt dui aliquam ac. Sed scelerisque, augue eu lacinia ultrices, libero ante ullamcorper augue, vel malesuada justo risus ac nulla. Quisque ac libero libero. Sed tincidunt, orci eu condimentum laoreet, felis odio mattis est, et lacinia metus enim in leo. Fusce faucibus tristique risus in varius. Etiam sagittis venenatis ligula nec rutrum. Etiam gravida dictum hendrerit. Sed sodales felis in sapien rutrum non malesuada nisi lobortis. Mauris iaculis ante odio. Nunc gravida erat convallis purus dignissim et ultricies orci dapibus. Aliquam erat volutpat. Vestibulum mi felis, malesuada ac tincidunt sit amet, pulvinar nec dolor. Pellentesque vehicula est vulputate mi adipiscing euismod. Donec ac mauris nulla. Nullam suscipit felis eu quam sodales ac bibendum nisi interdum. Curabitur non lectus a ante venenatis semper eget id justo. Ut facilisis, ligula pretium dictum congue, lacus dolor commodo nibh, sit amet sodales sed.</plot>
       <genretype>10</genretype>
       <genresubtype>0</genresubtype>
-      <time>12:00</time>
-      <duration>7200</duration>
+      <time>20:00</time>
+      <duration>7500</duration>
     </recording>
     <recording>
-      <title>Demo Recording entry #4</title>
+      <title>Demo Recording entry 4</title>
       <url></url>
-      <channelname>Demo TV Channel #4</channelname>
+      <channelname>Demo TV Channel 4</channelname>
       <plotoutline>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</plotoutline>
       <plot>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam cursus consectetur ipsum, eu tincidunt dui aliquam ac. Sed scelerisque, augue eu lacinia ultrices, libero ante ullamcorper augue, vel malesuada justo risus ac nulla. Quisque ac libero libero. Sed tincidunt, orci eu condimentum laoreet, felis odio mattis est, et lacinia metus enim in leo. Fusce faucibus tristique risus in varius. Etiam sagittis venenatis ligula nec rutrum. Etiam gravida dictum hendrerit. Sed sodales felis in sapien rutrum non malesuada nisi lobortis. Mauris iaculis ante odio. Nunc gravida erat convallis purus dignissim et ultricies orci dapibus. Aliquam erat volutpat. Vestibulum mi felis, malesuada ac tincidunt sit amet, pulvinar nec dolor. Pellentesque vehicula est vulputate mi adipiscing euismod. Donec ac mauris nulla. Nullam suscipit felis eu quam sodales ac bibendum nisi interdum. Curabitur non lectus a ante venenatis semper eget id justo. Ut facilisis, ligula pretium dictum congue, lacus dolor commodo nibh, sit amet sodales sed.</plot>
       <genretype>10</genretype>
       <genresubtype>0</genresubtype>
-      <time>12:00</time>
-      <duration>7200</duration>
+      <time>18:00</time>
+      <duration>7500</duration>
     </recording>
     <recording>
-      <title>Demo Recording entry #5</title>
+      <title>Demo Recording entry 5</title>
       <url></url>
-      <channelname>Demo TV Channel #5</channelname>
+      <channelname>Demo TV Channel 5</channelname>
       <plotoutline>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</plotoutline>
       <plot>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam cursus consectetur ipsum, eu tincidunt dui aliquam ac. Sed scelerisque, augue eu lacinia ultrices, libero ante ullamcorper augue, vel malesuada justo risus ac nulla. Quisque ac libero libero. Sed tincidunt, orci eu condimentum laoreet, felis odio mattis est, et lacinia metus enim in leo. Fusce faucibus tristique risus in varius. Etiam sagittis venenatis ligula nec rutrum. Etiam gravida dictum hendrerit. Sed sodales felis in sapien rutrum non malesuada nisi lobortis. Mauris iaculis ante odio. Nunc gravida erat convallis purus dignissim et ultricies orci dapibus. Aliquam erat volutpat. Vestibulum mi felis, malesuada ac tincidunt sit amet, pulvinar nec dolor. Pellentesque vehicula est vulputate mi adipiscing euismod. Donec ac mauris nulla. Nullam suscipit felis eu quam sodales ac bibendum nisi interdum. Curabitur non lectus a ante venenatis semper eget id justo. Ut facilisis, ligula pretium dictum congue, lacus dolor commodo nibh, sit amet sodales sed.</plot>
       <genretype>10</genretype>
       <genresubtype>0</genresubtype>
-      <time>12:00</time>
-      <duration>7200</duration>
+      <time>16:00</time>
+      <duration>7500</duration>
     </recording>
     <recording>
-      <title>Demo Recording entry #6</title>
+      <title>Demo Recording entry 6</title>
       <url></url>
-      <channelname>Demo TV Channel #6</channelname>
+      <channelname>Demo TV Channel 6</channelname>
       <plotoutline>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</plotoutline>
       <plot>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam cursus consectetur ipsum, eu tincidunt dui aliquam ac. Sed scelerisque, augue eu lacinia ultrices, libero ante ullamcorper augue, vel malesuada justo risus ac nulla. Quisque ac libero libero. Sed tincidunt, orci eu condimentum laoreet, felis odio mattis est, et lacinia metus enim in leo. Fusce faucibus tristique risus in varius. Etiam sagittis venenatis ligula nec rutrum. Etiam gravida dictum hendrerit. Sed sodales felis in sapien rutrum non malesuada nisi lobortis. Mauris iaculis ante odio. Nunc gravida erat convallis purus dignissim et ultricies orci dapibus. Aliquam erat volutpat. Vestibulum mi felis, malesuada ac tincidunt sit amet, pulvinar nec dolor. Pellentesque vehicula est vulputate mi adipiscing euismod. Donec ac mauris nulla. Nullam suscipit felis eu quam sodales ac bibendum nisi interdum. Curabitur non lectus a ante venenatis semper eget id justo. Ut facilisis, ligula pretium dictum congue, lacus dolor commodo nibh, sit amet sodales sed.</plot>
       <genretype>10</genretype>
       <genresubtype>0</genresubtype>
-      <time>12:00</time>
-      <duration>7200</duration>
+      <time>14:00</time>
+      <duration>7500</duration>
     </recording>
     <recording>
-      <title>Demo Recording entry #7</title>
+      <title>Demo Recording entry 7</title>
       <url></url>
-      <channelname>Demo TV Channel #7</channelname>
+      <channelname>Demo TV Channel 7</channelname>
       <plotoutline>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</plotoutline>
       <plot>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam cursus consectetur ipsum, eu tincidunt dui aliquam ac. Sed scelerisque, augue eu lacinia ultrices, libero ante ullamcorper augue, vel malesuada justo risus ac nulla. Quisque ac libero libero. Sed tincidunt, orci eu condimentum laoreet, felis odio mattis est, et lacinia metus enim in leo. Fusce faucibus tristique risus in varius. Etiam sagittis venenatis ligula nec rutrum. Etiam gravida dictum hendrerit. Sed sodales felis in sapien rutrum non malesuada nisi lobortis. Mauris iaculis ante odio. Nunc gravida erat convallis purus dignissim et ultricies orci dapibus. Aliquam erat volutpat. Vestibulum mi felis, malesuada ac tincidunt sit amet, pulvinar nec dolor. Pellentesque vehicula est vulputate mi adipiscing euismod. Donec ac mauris nulla. Nullam suscipit felis eu quam sodales ac bibendum nisi interdum. Curabitur non lectus a ante venenatis semper eget id justo. Ut facilisis, ligula pretium dictum congue, lacus dolor commodo nibh, sit amet sodales sed.</plot>
       <genretype>10</genretype>
       <genresubtype>0</genresubtype>
-      <time>12:00</time>
-      <duration>7200</duration>
+      <time>14:00</time>
+      <duration>7500</duration>
     </recording>
     <recording>
-      <title>Demo Recording entry #8</title>
+      <title>Demo Recording entry 8</title>
       <url></url>
-      <channelname>Demo TV Channel #8</channelname>
+      <channelname>Demo TV Channel 8</channelname>
       <plotoutline>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</plotoutline>
       <plot>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam cursus consectetur ipsum, eu tincidunt dui aliquam ac. Sed scelerisque, augue eu lacinia ultrices, libero ante ullamcorper augue, vel malesuada justo risus ac nulla. Quisque ac libero libero. Sed tincidunt, orci eu condimentum laoreet, felis odio mattis est, et lacinia metus enim in leo. Fusce faucibus tristique risus in varius. Etiam sagittis venenatis ligula nec rutrum. Etiam gravida dictum hendrerit. Sed sodales felis in sapien rutrum non malesuada nisi lobortis. Mauris iaculis ante odio. Nunc gravida erat convallis purus dignissim et ultricies orci dapibus. Aliquam erat volutpat. Vestibulum mi felis, malesuada ac tincidunt sit amet, pulvinar nec dolor. Pellentesque vehicula est vulputate mi adipiscing euismod. Donec ac mauris nulla. Nullam suscipit felis eu quam sodales ac bibendum nisi interdum. Curabitur non lectus a ante venenatis semper eget id justo. Ut facilisis, ligula pretium dictum congue, lacus dolor commodo nibh, sit amet sodales sed.</plot>
       <genretype>10</genretype>
       <genresubtype>0</genresubtype>
-      <time>12:00</time>
-      <duration>7200</duration>
+      <time>14:00</time>
+      <duration>7500</duration>
     </recording>
     <recording>
-      <title>Demo Recording entry #9</title>
+      <title>Demo Recording entry 9</title>
       <url></url>
-      <channelname>Demo TV Channel #9</channelname>
+      <channelname>Demo TV Channel 9</channelname>
       <plotoutline>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</plotoutline>
       <plot>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam cursus consectetur ipsum, eu tincidunt dui aliquam ac. Sed scelerisque, augue eu lacinia ultrices, libero ante ullamcorper augue, vel malesuada justo risus ac nulla. Quisque ac libero libero. Sed tincidunt, orci eu condimentum laoreet, felis odio mattis est, et lacinia metus enim in leo. Fusce faucibus tristique risus in varius. Etiam sagittis venenatis ligula nec rutrum. Etiam gravida dictum hendrerit. Sed sodales felis in sapien rutrum non malesuada nisi lobortis. Mauris iaculis ante odio. Nunc gravida erat convallis purus dignissim et ultricies orci dapibus. Aliquam erat volutpat. Vestibulum mi felis, malesuada ac tincidunt sit amet, pulvinar nec dolor. Pellentesque vehicula est vulputate mi adipiscing euismod. Donec ac mauris nulla. Nullam suscipit felis eu quam sodales ac bibendum nisi interdum. Curabitur non lectus a ante venenatis semper eget id justo. Ut facilisis, ligula pretium dictum congue, lacus dolor commodo nibh, sit amet sodales sed.</plot>
       <genretype>10</genretype>
       <genresubtype>0</genresubtype>
-      <time>12:00</time>
-      <duration>7200</duration>
+      <time>14:00</time>
+      <duration>7500</duration>
     </recording>
     <recording>
-      <title>Demo Recording entry #10</title>
+      <title>Demo Recording entry 10</title>
       <url></url>
-      <channelname>Demo TV Channel #10</channelname>
+      <channelname>Demo TV Channel 10</channelname>
       <plotoutline>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</plotoutline>
       <plot>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam cursus consectetur ipsum, eu tincidunt dui aliquam ac. Sed scelerisque, augue eu lacinia ultrices, libero ante ullamcorper augue, vel malesuada justo risus ac nulla. Quisque ac libero libero. Sed tincidunt, orci eu condimentum laoreet, felis odio mattis est, et lacinia metus enim in leo. Fusce faucibus tristique risus in varius. Etiam sagittis venenatis ligula nec rutrum. Etiam gravida dictum hendrerit. Sed sodales felis in sapien rutrum non malesuada nisi lobortis. Mauris iaculis ante odio. Nunc gravida erat convallis purus dignissim et ultricies orci dapibus. Aliquam erat volutpat. Vestibulum mi felis, malesuada ac tincidunt sit amet, pulvinar nec dolor. Pellentesque vehicula est vulputate mi adipiscing euismod. Donec ac mauris nulla. Nullam suscipit felis eu quam sodales ac bibendum nisi interdum. Curabitur non lectus a ante venenatis semper eget id justo. Ut facilisis, ligula pretium dictum congue, lacus dolor commodo nibh, sit amet sodales sed.</plot>
       <genretype>10</genretype>
       <genresubtype>0</genresubtype>
-      <time>12:00</time>
-      <duration>7200</duration>
+      <time>14:00</time>
+      <duration>7500</duration>
     </recording>
-
-  </recordings> 
+  </recordings>
 </demo>
